@@ -6,7 +6,7 @@ const Footers = () => {
             <div className="top-bar-left">
                 <div className="top-bar-email">
                     <i className=" fa-solid fa-envelope"></i>
-                    <a className=" " target="_blank">contact@Groways.com</a>
+                    <a className=" " target="_blank">info@mymoneyways.com</a>
                 </div>
                 {/* <div className="top-bar-contact">
                     <i className="hidden sm:inline fa-sharp fa-solid fa-phone"></i>
@@ -14,7 +14,7 @@ const Footers = () => {
                 </div> */}
             </div>
             <div className="top-bar-right md:flex sm:justify-center sm:mx-0">
-                <a href="mailto:contact@Groways.com" target="_blank"><i className="fa-solid fa-envelope"></i></a>
+                <a href="mailto:info@mymoneyways.com" target="_blank"><i className="fa-solid fa-envelope"></i></a>
                 <a href="" ><i className="fa-brands fa-facebook"></i></a>
                 <a href="" ><i className="fa-brands fa-linkedin"></i></a>
                 <a href="" ><i className="fa-brands fa-instagram"></i></a>

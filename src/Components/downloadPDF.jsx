@@ -3,12 +3,7 @@ import './downloadPDF.css'; // Import your CSS file
 
 const DownloadPDF = () => {
     const pdfUrls = [
-        '/image/GrowaysTechnologies.pdf',
-        '/image/bangaliGrowaysTEchnologies.pdf',
-        '/image/ArbiGrowaysTEchnologies.pdf',
-        '/image/hindiGrowaysTEchnologies.pdf',
-        '/image/kanndaGrowaysTEchnologies.pdf',
-        '/image/TamilGrowaysTEchnologies.pdf',
+        '/image/Mymoneyways.pdf'
         // Add more PDF URLs as needed
       ];
 

@@ -18,15 +18,15 @@ const RegisterinForsageBUSD = () => {
             <div className="welcome-container">
                 <div className="welcome-inner-div register-inner-div">
                     <div className="welcome-left-div register-left-div">
-                        <h2>Register in GroWays USDT</h2>
+                        <h2>Register in MyMoneyWays USDT</h2>
                         <p>
                             You can use this Wallet (0xBb3D...150d) to register as a new member. Watch a tutorial to learn more                        </p>
                         <div className='tow-buttons'>
                             <div className='Join-groways'>
-                                <a style={{ textDecoration: 'none' }} href="https://user.groways.io">
+                                <a style={{ textDecoration: 'none' }} href="https://user.mymoneyways.com">
                                 {/* <a style={{ textDecoration: 'none' }} href="#"> */}
                                 {/* <button onClick={()=>navigate('./RegisterinForsageBUSDPage')}>Join GroWays</button> */}
-                                <button >Join GroWays</button>
+                                <button >Join MyMoneyWays</button>
                                 </a>
                             </div>
                             

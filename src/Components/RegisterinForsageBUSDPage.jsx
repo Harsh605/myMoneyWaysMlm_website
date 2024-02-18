@@ -8,7 +8,7 @@ const RegisterinForsageBUSDPage = () => {
                 <div className="RegisterinForsageBUSDPage-inner-container">
 
                     <div className="RegisterinForsageBUSDPage-left-container">
-                        <span className=" Heading inline-block text-two-half text-white mb-10 sm:mb-7.5 sm:text-2xl"> Registration <br /> in <span className="notranslate"> GroWays USDT</span></span>
+                        <span className=" Heading inline-block text-two-half text-white mb-10 sm:mb-7.5 sm:text-2xl"> Registration <br /> in <span className="notranslate">MyMoneyWays USDT</span></span>
 
                         <div className='Upline-input'>
                             <label>Your upline wallet address</label>

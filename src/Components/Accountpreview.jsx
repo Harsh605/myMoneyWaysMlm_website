@@ -17,7 +17,7 @@ const Accountpreview = () => {
       }
     } else {
       // Handle the case when the input is empty
-      alert("Please enter a valid ID or GroWays Wallet");
+      alert("Please enter a valid ID or mymoneyways Wallet");
     }
   };
   return (
@@ -25,12 +25,12 @@ const Accountpreview = () => {
       <div className="Accountpreview-inner-container">
         <h1>Account preview</h1>
         <p>
-          Look up any GroWays member account in preview mode. Enter ID or
-          GroWays address to preview or click Demo to view a random account.
+          Look up any MyMoneyWays member account in preview mode. Enter ID or
+          MyMoneyWays address to preview or click Demo to view a random account.
         </p>
         <div className="Accountpreview-container">
           <div className="Accountpreview-left-container">
-            <h4>Enter ID or GroWays Wallet</h4>
+            <h4>Enter ID or MyMoneyWays Wallet</h4>
             <div className="input-and-button">
               <input
                 type="text"
