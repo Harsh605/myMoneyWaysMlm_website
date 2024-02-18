@@ -23,7 +23,7 @@ const TokenIntro = () => {
             <div className="w-full shrink-0 grow-0 basis-auto lg:w-7/12">
               <div className="flex h-full items-center rounded-lg bg-transparent p-6 text-center text-[#4361EE] lg:pl-12 lg:text-left" style={{ background: "transparent", border: "1px solid #4361EE" }}>
                 <div className="lg:pl-12">
-                  <p style={{ fontFamily: "revert", fontWeight: "600" }} className='text-xl text-white'>Our What is MyMoneyWays Technologies Graways Technologies stands at the forefront of technological innovation, dedicated to
+                  <p style={{ fontFamily: "revert", fontWeight: "600" }} className='text-xl text-white'>Our What is MyMoneyWays Technologies stands at the forefront of technological innovation, dedicated to
                     empowering individuals to transform their
                     dreams into reality.
                   </p> <br />

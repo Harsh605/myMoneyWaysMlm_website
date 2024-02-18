@@ -26,7 +26,7 @@ const RegisterinForsageBUSD = () => {
                                 <a style={{ textDecoration: 'none' }} href="https://user.mymoneyways.com">
                                 {/* <a style={{ textDecoration: 'none' }} href="#"> */}
                                 {/* <button onClick={()=>navigate('./RegisterinForsageBUSDPage')}>Join GroWays</button> */}
-                                <button >Join MyMoneyWays</button>
+                                <button >Join Us</button>
                                 </a>
                             </div>
                             
