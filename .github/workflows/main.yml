@@ -23,7 +23,7 @@ jobs:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         port: 22
         script: |
-          cd /var/www/html/groways_web_frontend/
+          cd /home/myMoneyWays/myMoneyWaysMlm_website/
           git pull origin main
           git status
           sudo nginx -s reload
