@@ -28,7 +28,7 @@ const TokenIntro = () => {
                     dreams into reality.
                   </p> <br />
                   <p style={{ fontFamily: "revert", fontWeight: "600" }} className='text-xl text-white'>In a world where the future
-                    is evolving at an unprecedented pace, Graways
+                    is evolving at an unprecedented pace, mymoneyways
                     Technologies serves as a catalyst for positive
                     change. With a commitment to excellence, the
                     company harnesses the latest advancements in
